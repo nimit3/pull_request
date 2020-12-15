@@ -10,3 +10,6 @@ here this conflcit is from another_brnach
 
 this added in another branch
 this one too in another branch
+
+this is from main
+this from main too
