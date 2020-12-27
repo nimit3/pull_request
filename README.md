@@ -16,3 +16,8 @@ this from main too
 
 this si 3rd conflcit from amster
 444444444
+
+this is for stash
+55555
+
+awesome and latest stash with message
