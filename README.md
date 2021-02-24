@@ -21,3 +21,9 @@ this is for stash
 55555
 
 awesome and latest stash with message
+f
+i
+n
+a
+l
+stash
