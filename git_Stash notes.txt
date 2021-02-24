@@ -1,0 +1,24 @@
+1111111111111 first step
+git stash
+that will remove the modified code from working directory
+
+222222222222
+git stash apply
+this will laod back those changed into the working directory that was removed when we did "git stash"
+
+git stash list
+it will list out all those stash that we had done(same like what git commit --oneline does)
+
+git stash push -m"stashing message"
+impppppppppppppppppppppppppppppppppppp
+when we do that and after that when we do git stash list then in that list we will get last one with specific message(same like commit message)
+
+dropping stash from (git stash list)
+git stash drop 3(basically version no that you want to drop)
+
+how tor remove any specific stash from out list without dropping nad even directly applying to our code
+git stash pop 1(git stash list specific version that you want o remove from list and apply to our working directory)
+
+Clearing all stash from list once our work is done
+git stash clear
+(git stash list ===== will give 0 from list because we just cleared everyhting)
