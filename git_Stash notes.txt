@@ -4,7 +4,7 @@ that will remove the modified code from working directory
 
 222222222222
 git stash apply
-this will laod back those changed into the working directory that was removed when we did "git stash"
+this will laod back those changes into the working directory that was removed when we did "git stash"
 
 git stash list
 it will list out all those stash that we had done(same like what git commit --oneline does)
