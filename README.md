@@ -27,5 +27,3 @@ n
 a
 l
 stash
-
-we are going to revert his line
