@@ -28,4 +28,4 @@ a
 l
 stash
 
-we are going to revert his line now. wait and see
+we are going to revert his line
